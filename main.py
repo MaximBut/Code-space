@@ -237,7 +237,7 @@ class Editor:
 
         self.right_click_menu.add_cascade(label="Порахувати", menu=self.calc_menu)
 
-        self.right_click_menu.add_command(label="Замніти виділене", command=self.refractoring)
+        self.right_click_menu.add_command(label="Замінити виділене", command=self.refractoring)
         self.right_click_menu.add_separator()
         self.searchmenu.add_command(label="StackOverflow", command=self.search_stack)
         self.searchmenu.add_command(label="Google", command=self.search_google)
