@@ -1,0 +1,7 @@
+pyttsx3
+idle
+sv_ttk
+wikipedia
+googletrans
+pyperclip
+customtkinter
